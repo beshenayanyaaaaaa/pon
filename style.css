@@ -1,0 +1,9 @@
+img{
+    display: inline-block;
+    width: 400px;
+    height: 350px;
+}
+
+body{
+    background-color: rgb(83, 110, 158);
+}
